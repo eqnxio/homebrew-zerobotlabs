@@ -2,9 +2,9 @@ class Nestor < Formula
   desc ''
   homepage 'https://dl.equinox.io/zerobotlabs/nestor'
 
-  url 'https://bin.equinox.io/a/ai3Yohg9qLu/nestor-0.1.0-b9ef742-darwin-amd64.tar.gz'
-  sha256 '3b5a1b6978a1da987cd375c5478e1b52b55f2cf10bb0343b0cba0318c526136d'
-  version '0.1.0-b9ef742'
+  url 'https://bin.equinox.io/a/gNX9QAnNNfW/nestor-0.1.0-7a0456d-darwin-amd64.tar.gz'
+  sha256 'c546a27af59fd961aa20f588328e46113d23828179fd3f27e886002c5d8c7839'
+  version '0.1.0-7a0456d'
 
   def install
     bin.install 'nestor'
